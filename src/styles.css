@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 18px;
+}
+
+button {
+  border: none;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 20px;
+  width: 150px;
+  height: 75px;
+  padding: 16px;
+  font-size: 20px;
+}
